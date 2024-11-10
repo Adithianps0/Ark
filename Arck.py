@@ -1,5 +1,4 @@
 # Step 1: Install required libraries
-!pip install transformers gradio datasets
 
 # Step 2: Import required libraries
 import os
